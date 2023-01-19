@@ -10,9 +10,10 @@ Acronyms
 
 If you find any other internships from outside the sheet, feel free to make a pull request or let us know at supercomputing.gt@gmail.com
 
-| Organization | Positions |
+| Organization | Opportunities |
 |--------------|-----------|
 | Argonne National Laboratory (ANL) |- [Educational Programs](https://www.anl.gov/education) <br/> - [Givens Associates - PhD](https://www.anl.gov/mcs/givens-associates) <br/> - [Undergraduate Seasonal Intern General Application - Summer 2023 - US Citizen or LPR](https://www.anl.gov/education/seasonal-internship-program) <br/> - [WJ Cody Associates - PhD](https://www.anl.gov/mcs/wj-cody-associates)|
 | Brookhaven National Lab (BNL) |- [Educational Programs](https://www.bnl.gov/education/college-students.php) <br/> - [Co-design Center for Quantum Advantage Quantum Computing Summer School - US Citizen or LPR](https://www.bnl.gov/education/programs/program.php?q=248) |
 | Department of Energy Labs | - [Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/how-apply/apply-now) <br/> - [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) <br/> - [Office of Science Graduate Student Research Program](https://science.osti.gov/wdts/scgsr) <br/> - [Science Undergraduate Laboratory Internship (SULI)](https://science.osti.gov/wdts/suli/How-to-Apply/Selecting-a-Host-DOE-Laboratory)|
+| Fermi National Accelerator Laboratory (Fermilab) | - [Internships](https://internships.fnal.gov/) <br/> - [Fermilab Computational Science Internship](https://internships.fnal.gov/fermilab-computational-science-internship/) <br/> - [Italian Student Program](https://internships.fnal.gov/italian-student-programs/) <br/> - [SQMS Quantum Undergraduate Internship](https://internships.fnal.gov/sqms-quantum-undergraduate-internship/) <br/> - [Summer Internships in Science and Technology(SIST)](https://internships.fnal.gov/summer-internships-in-science-and-technology-sist/) <br/> - [US CMS Undergraduate Internship](https://internships.fnal.gov/u-s-cms-undergraduate-internship/)|
 
