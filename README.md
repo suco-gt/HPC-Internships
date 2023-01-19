@@ -3,7 +3,7 @@ We've compiled a list of companies (and labs, orgs, etc) known to have/have had 
 
 Most are available this season, though there are exceptions for record purposes. The goal of this list is to ensure someone who wants to intern in the HPC space is aware of what's out there, so links may expire as time passes. This list was made for 2023, but these orgs are likely to provide internships of this nature year after year.
 
-The original document we compiled can be found [here](https://docs.google.com/spreadsheets/d/1KXSyCtucD6YsH7eFSETqrgGM-VmSRE0ZeBmmocr-9r0/edit?usp=sharing)
+The original document we compiled can be found [here](https://docs.google.com/spreadsheets/d/1KXSyCtucD6YsH7eFSETqrgGM-VmSRE0ZeBmmocr-9r0/edit?usp=sharing).
 
 Acronyms
 - LPR - Legal Permanant Resident
