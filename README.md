@@ -10,6 +10,8 @@ Acronyms
 
 If you find any other internships from outside the sheet, feel free to make a pull request or let us know at supercomputing.gt@gmail.com
 
+Inspired by the Pitt CSC's list of internships.
+
 | Organization(s) | Opportunities |
 |--------------|-----------|
 |Argonne National Laboratory (ANL)|- [Educational Programs](https://www.anl.gov/education) <br/> - [Givens Associates - PhD](https://www.anl.gov/mcs/givens-associates) <br/> - [Undergraduate Seasonal Intern General Application - Summer 2023 - US Citizen or LPR](https://www.anl.gov/education/seasonal-internship-program) <br/> - [WJ Cody Associates - PhD](https://www.anl.gov/mcs/wj-cody-associates)|
@@ -23,5 +25,8 @@ If you find any other internships from outside the sheet, feel free to make a pu
 |IBM (International Business Machines Corporation)| - [IBM Quantum and NYU Summer Extern: 2023 ( Undergrad)](https://careers.ibm.com/job/17504162/ibm-quantum-and-nyu-summer-extern-2023-undergrad-remote/) <br/> - [IBM Quantum and NYU Summer Extern (Master's/PhD): 2023](https://careers.ibm.com/job/17504163/ibm-quantum-and-nyu-summer-extern-masters-phd-2023-remote/?codes=IBM_CareerWebSite)|
 |Idaho National Laboratory (INL)| - [Internships](https://inl.gov/inl-initiatives/education/internships/) <br/> - [High Performance Computing Modeling and Simulation Internships](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=18399&tz=GMT-05%3A00&tzname=America%2FNew_York) <br/> - [Idaho National Laboratory Graduate Fellowship - PhD](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=18937&tz=GMT-05%3A00&tzname=America%2FNew_York) <br/> - [Idaho National Laboratory Graduate Fellowship - National and Homeland Security - PhD](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=18938&tz=GMT-05%3A00&tzname=America%2FNew_York) <br/> - [Software Engineering Internship Summer 2023](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=19012&tz=GMT-05%3A00&tzname=America%2FNew_York) <br/> - [Systems Modeling Summer 2023 Internship](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=18960&tz=GMT-05%3A00&tzname=America%2FNew_York)|
 |Kitware|- [Computer Vision Research Internship - PhD](https://jobs.lever.co/kitware/b3410e4b-db78-400d-8dab-ec36a7c8c93f)|
+|Lawrence Berkeley National Laboratory (LBL)|- [Berkeley Lab Undergraduate Faculty Fellowship (BLUFF)](https://education.lbl.gov/internships/bluff/) <br/> - [Berkeley Lab Undergraduate Research (BLUR)](https://education.lbl.gov/internships/blur/) <br/> - [CS Summer Student program](https://cs.lbl.gov/careers/summer-student-and-faculty-program/how-to-apply/)|
+|Lawrence Livermore National Lab (LLNL)|- [Internships](https://st.llnl.gov/opportunities/student-internships) <br/> - [Computing Graduate Student Intern - Summer](https://www.llnl.gov/join-our-team/careers/find-your-job/all/REF3111L) <br/> - [Computing Undergraduate Intern - Summer](https://www.llnl.gov/join-our-team/careers/find-your-job/all/REF3110Q) <br/> - [Data Science Summer Institute Graduate Student Internship](https://jobs.smartrecruiters.com/LLNL/3743990000773946-data-science-summer-institute-graduate-student-internship) <br/> - [Data Science Summer Institute Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990000773966-data-science-summer-institute-undergraduate-student-intern) <br/> - [HPC Cluster Engineer Academy](https://computing.llnl.gov/hpc-cluster-engineer-academy/how-apply)|
+
 
 
