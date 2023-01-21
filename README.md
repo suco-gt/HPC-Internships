@@ -1,5 +1,5 @@
 # HPC Internships
-We've compiled a list of companies (and labs, orgs, etc) known to have/have had HPC-oriented internships (and opportunities in general), whether by working with the systems or applications that require HPC. This is a working list, so check back to see if we've (or you've) found any new internships.
+Supercomputing @ GT club has compiled a list of companies (and labs, orgs, etc) known to have/have had HPC-oriented internships (and opportunities in general), whether by working with the systems or applications that require HPC. This is a working list, so check back to see if we've (or you've) found any new internships.
 
 Most are available this season, though there are exceptions for record purposes. The goal of this list is to ensure someone who wants to intern in the HPC space is aware of what's out there, so links may expire as time passes. This list was made for 2023, but these orgs are likely to provide internships of this nature year after year.
 
