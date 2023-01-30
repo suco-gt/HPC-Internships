@@ -1,6 +1,6 @@
 # HPC Internships
 
-Supercomputing @ GT club has compiled a list of organizations that offer internships and experiences in HPC and applications of HPC. This is a working list, so check back for new entries.
+Supercomputing club at Georgia Tech has compiled a list of organizations that offer internships and experiences in HPC and applications of HPC. This is a working list, so check back for new entries.
 
 Most are available this season, though there are exceptions for record purposes. The goal of this list is to ensure someone who wants to intern in the HPC space is aware of what's out there, so links may expire as time passes. This list was made for 2023, but these orgs are likely to provide internships of this nature year after year.
 
