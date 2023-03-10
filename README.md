@@ -2,7 +2,7 @@
 
 Supercomputing club at Georgia Tech has compiled a list of organizations that offer internships, fellowships, and experiences in HPC and applications of HPC. This is a working list, so check back for new entries.
 
-We are based in the US (Atlanta, Georgia specifically), so internships here will mainly be within the US, but slowly but surely, international entries will be added.
+We are based in the US (Atlanta, Georgia specifically), so many of these internships will be based in the US, but slowly but surely, international entries will be added.
 
 The goal of this list is to ensure someone who wants to intern in the HPC space is aware of what's out there, so links will expire as time passes. This list was made for 2023, but these orgs are likely to provide internships of this nature year after year.
 
