@@ -6,8 +6,6 @@ We are based in the US (Atlanta, Georgia specifically), so many of these interns
 
 The goal of this list is to ensure someone who wants to intern in the HPC space is aware of what's out there, so links will expire as time passes. This list was made for 2023, but these orgs are likely to provide internships of this nature year after year.
 
-The original document we compiled can be found [here](https://docs.google.com/spreadsheets/d/1KXSyCtucD6YsH7eFSETqrgGM-VmSRE0ZeBmmocr-9r0/edit?usp=sharing). Further details about deadlines can also be found there.
-
 Acronyms
 
 - LPR - Legal Permanant Resident
