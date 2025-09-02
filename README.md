@@ -55,12 +55,6 @@ This README separates programs into **Confirmed (apply now / dates posted)** and
 - **[LLNL Computing Internships](https://computing.llnl.gov/careers/internships)** + [**HPC Cluster Engineer Academy**](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
   2025 cohort closed; **2026 applications expected in late 2025**. Roles in HPC systems, cluster engineering, and computational science.
 
-- **[DoD HPCMP — High Performance Computing Internship Program (HIP)](https://www.zintellect.com/Opportunity/Details/HPCMP-HIP-2025)**  
-  10-week summer program at DoD HPC centers. **2026 postings expected late 2025 – early 2026**.
-
-- **[ACCESS STEP-2 Student Training & Engagement Program](https://access-ci.org/student-programs/)**  
-  Summer program focused on HPC systems, cybersecurity, and CI operations. **2026 apps expected late 2025**.
-
 - **[SULI (DOE Office of Science Undergraduate Internships)](https://science.osti.gov/wdts/suli)**  
   10-week internships across 17 DOE labs. Summer 2026 application window typically opens in **Fall 2025** with a **January 2026 deadline**.
 
