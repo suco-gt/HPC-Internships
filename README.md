@@ -18,12 +18,13 @@ This README separates programs into **Confirmed (apply now / dates posted)** and
 
 ---
 
-## ✅ Confirmed — Summer 2026 HPC Opportunities (Apply Now / Set Reminders)
+## ✅ Confirmed — Fall 2025 and Summer 2026 HPC Opportunities (Apply Now / Set Reminders)
 
 - **[Advanced Computing Student Collaborative](https://tacc.utexas.edu/education/undergraduates-graduates/acsc/)** (Austin, TX)  
-  - Dates: **May 30 – Aug 1, 2026**  
+  - Dates: **Oct 3, 2025 - Nov 11, 2025**
+  - Important Dates: 11/15/2025 – 11/21/2025 (Cohort experience in St.Louis co-located with Supercomputing 25)
   - Applications: **Aug 1, 2025 – Sept 15, 2025**  
-  - This cohort experience will be co-located with **SC25 in St. Louis, MO** and themed around **Artificial Intelligence for Societal Advancement**.  
+  - It is a paid, weeklong program with virtual training activities leading up to the cohort experience at the conference.
   - Who: Undergraduates, U.S. citizens/PR (may sponsor 1 non-citizen)  
   - Focus: HPC, AI, and data-intensive research with stipend, housing, and travel support.
 
