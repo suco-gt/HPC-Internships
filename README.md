@@ -49,9 +49,6 @@ This README separates programs into **Confirmed (apply now / dates posted)** and
 
 ## 🔜 Opening Soon — Summer 2026 HPC Opportunities
 
-- **[NERSC (LBNL) Summer Internships](https://www.nersc.gov/about/work-at-nersc/internships/nersc-summer-internship-projects/)**  
-  Applications typically open **November 2025**. Tracks in HPC, scientific computing, and high-speed networking.
-
 - **[LLNL Computing Internships](https://computing.llnl.gov/careers/internships)** + [**HPC Cluster Engineer Academy**](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
   2025 cohort closed; **2026 applications expected in late 2025**. Roles in HPC systems, cluster engineering, and computational science.
 
