@@ -12,6 +12,22 @@ Acronyms
 
 If you find any other internships from outside the sheet, feel free to make a pull request or let us know at supercomputing.gt@gmail.com.
 
+### 📝 Applying to HPC Internships via Zintellect
+
+[Zintellect](https://www.zintellect.com) is the application portal for many **high-performance computing (HPC)** research opportunities sponsored by the Department of Defense (DoD) and Department of Energy (DOE) through **ORISE**.  
+
+- Central hub for programs like:  
+  - **DoD HPCMP HIP** (High Performance Computing Internship Program)  
+  - **SULI** (DOE Science Undergraduate Laboratory Internships)  
+  - Other HPC-related research appointments across national labs  
+
+- For **DoD HPCMP**, Zintellect links directly with the [HPCMP Project Catalog](https://orise.orau.gov/hpcmp/project-catalog.html):  
+  - Each listing provides a **reference code, host lab, and project scope** (e.g., HPC algorithms, scalable systems, AI/ML on supercomputers).  
+  - Applicants can select up to **5 preferred projects** when submitting their application.  
+
+- Why it matters: If you want to work on **world-class supercomputers** at labs like AFRL, ERDC, or Navy DoD centers, Zintellect is the gateway to apply.  
+
+
 # 🌐 High Performance Computing (HPC) Internships — Summer 2026
 
 This README separates programs into **Confirmed (apply now / dates posted)** and **Opening Soon (apps expected late 2025)** so you can plan ahead.
