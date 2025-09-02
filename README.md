@@ -1,4 +1,4 @@
-# HPC Internships
+# HPC Opportunities
 
 Supercomputing club at Georgia Tech has compiled a list of organizations that offer internships, fellowships, and experiences in HPC and applications of HPC. This is a working list, so check back for new entries. Some entries may be more related to HPC, and some less, but in general these programs will involve or support scientific research.
 
@@ -11,6 +11,90 @@ Acronyms
 - LPR - Legal Permanant Resident
 
 If you find any other internships from outside the sheet, feel free to make a pull request or let us know at supercomputing.gt@gmail.com.
+
+# 🌐 High Performance Computing (HPC) Internships — Summer 2026
+
+This README separates programs into **Confirmed (apply now / dates posted)** and **Opening Soon (apps expected late 2025)** so you can plan ahead.
+
+---
+
+## ✅ Confirmed — Summer 2026 HPC Opportunities (Apply Now / Set Reminders)
+
+- **[TACC REU — Cyberinfrastructure Research for Societal Advancement](https://www.tacc.utexas.edu/education/students/reu/)** (Austin, TX)  
+  - Dates: **May 30 – Aug 1, 2026**  
+  - Applications: **Nov 1, 2025 – Apr 1, 2026**  
+  - Who: Undergraduates, U.S. citizens/PR (may sponsor 1 non-citizen)  
+  - Focus: HPC, AI, and data-intensive research with stipend, housing, travel.
+
+- **[NASA OStEM Internships (incl. HPC/NAS at Ames)](https://intern.nasa.gov/)**  
+  - Dates: Summer 2026 session  
+  - Deadline: **Feb 27, 2026**  
+  - Who: U.S. citizens  
+  - Focus: HPC projects at NASA centers (Ames NAS, Goddard HECC, etc.).
+
+- **[LANL Graduate Internship — Computational Sciences](https://lanl.jobs/los-alamos-nm/graduate-internship-computational-sciences-summer-2026/)**  
+  - Deadline: **Feb 13, 2026**  
+  - Who: Graduate students (U.S. + some foreign nationals, DOE restrictions apply)  
+  - Focus: Supercomputing algorithms, ML for HPC, advanced modeling.
+
+- **[LANL CCS Undergraduate Student Internships](https://ccs.lanl.gov/careers/internships.shtml)**  
+  - Rolling applications for Summer 2026  
+  - Who: Undergraduates, U.S. citizens preferred  
+  - Focus: HPC-heavy groups (Applied CS, Computational Physics, Statistical Sciences).
+
+- **[Oak Ridge Computing Academy (ORCA)](https://www.olcf.ornl.gov/education-training/orca/)**  
+  - Dates: **June 2026** (1-week immersive training)  
+  - Who: Students & early-career professionals  
+  - Focus: Fundamentals of HPC operations at ORNL.
+
+- **[Argonne National Laboratory — Seasonal/Student Internships](https://www.anl.gov/education/internship-opportunities)**  
+  - Spring 2026 deadline: **Oct 31, 2025** (Summer cycle expected soon)  
+  - Who: Undergraduates/Graduates, U.S. citizens & PR  
+  - Focus: HPC and computational science (ALCF projects available).
+
+- **[PNNL Internships](https://pnnl.careers/university-internships)**  
+  - Status: Open year-round (Summer & Academic-Year)  
+  - Who: Undergraduate & graduate students  
+  - Focus: HPC, compute science, AI, energy modeling, and national security.
+
+- **[Sandia National Laboratories Internships](https://www.sandia.gov/careers/students/internships/)**  
+  - Summer 2026 postings begin **Fall 2025**  
+  - Who: Undergraduates/Graduates, U.S. citizens (most roles)  
+  - Focus: HPC systems, scalable software, computer science R&D.
+
+---
+
+## 🔜 Opening Soon — Summer 2026 HPC Opportunities
+
+- **[NERSC (LBNL) Summer Internships](https://www.nersc.gov/about/work-at-nersc/internships/nersc-summer-internship-projects/)**  
+  Applications typically open **November 2025**. Tracks in HPC, scientific computing, and high-speed networking.
+
+- **[LLNL Computing Internships](https://computing.llnl.gov/careers/internships)** + [**HPC Cluster Engineer Academy**](https://computing.llnl.gov/hpc-cluster-engineer-academy)  
+  2025 cohort closed; **2026 applications expected in late 2025**. Roles in HPC systems, cluster engineering, and computational science.
+
+- **[DoD HPCMP — High Performance Computing Internship Program (HIP)](https://www.zintellect.com/Opportunity/Details/HPCMP-HIP-2025)**  
+  10-week summer program at DoD HPC centers. **2026 postings expected late 2025 – early 2026**.
+
+- **[ACCESS STEP-2 Student Training & Engagement Program](https://access-ci.org/student-programs/)**  
+  Summer program focused on HPC systems, cybersecurity, and CI operations. **2026 apps expected late 2025**.
+
+- **[SULI (DOE Office of Science Undergraduate Internships)](https://science.osti.gov/wdts/suli)**  
+  10-week internships across 17 DOE labs. Summer 2026 application window typically opens in **Fall 2025** with a **January 2026 deadline**.
+
+---
+
+## 📌 Tips
+
+- Most **DOE/DoD programs** (e.g., SULI, NASA, DoD HIP) require **U.S. citizenship**. Some allow PRs.  
+- Many apps open **October–December 2025** — prepare resume, transcript, and references now.  
+- Highlight experience with **Linux, Python/C/C++, MPI/OpenMP, CUDA, or cluster management** in applications.  
+- For rolling internships (LANL, PNNL, Argonne), apply **as early as possible** for priority.
+
+---
+
+⭐ If you find this list useful, consider bookmarking or starring this repo so you can catch updates as deadlines open!
+
+
 
 Inspired by the Pitt CSC's list of internships.
 
