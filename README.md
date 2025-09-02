@@ -20,32 +20,30 @@ This README separates programs into **Confirmed (apply now / dates posted)** and
 
 ## ✅ Confirmed — Summer 2026 HPC Opportunities (Apply Now / Set Reminders)
 
-- **[TACC REU — Cyberinfrastructure Research for Societal Advancement](https://www.tacc.utexas.edu/education/students/reu/)** (Austin, TX)  
+- **[Advanced Computing Student Collaborative](https://tacc.utexas.edu/education/undergraduates-graduates/)** (Austin, TX)  
   - Dates: **May 30 – Aug 1, 2026**  
-  - Applications: **Nov 1, 2025 – Apr 1, 2026**  
+  - Applications: **Aug 1, 2025 – Sept 15, 2025**  
+  - This cohort experience will be co-located with **SC25 in St. Louis, MO** and themed around **Artificial Intelligence for Societal Advancement**.  
   - Who: Undergraduates, U.S. citizens/PR (may sponsor 1 non-citizen)  
-  - Focus: HPC, AI, and data-intensive research with stipend, housing, travel.
+  - Focus: HPC, AI, and data-intensive research with stipend, housing, and travel support.
 
-- **[NASA OStEM Internships (incl. HPC/NAS at Ames)](https://intern.nasa.gov/)**  
-  - Dates: Summer 2026 session  
-  - Deadline: **Feb 27, 2026**  
-  - Who: U.S. citizens  
-  - Focus: HPC projects at NASA centers (Ames NAS, Goddard HECC, etc.).
+- **[DoD HPCMP Project Catalog (HIP & FIX via ORISE)](https://orise.orau.gov/hpcmp/project-catalog.html)**  
+  The DoD HPC Modernization Program’s **Project Catalog** lists summer research opportunities in high-performance computing:
+  - **HIP (High Performance Computing Internship Program):** For undergrads, grad students, and postdocs.  
+  - **FIX (Faculty Immersion Experience):** For college/university faculty.  
 
-- **[LANL Undergraduate/Graduate Internships — Computational Sciences](https://lanl.jobs/creative/students)**  
-  - Deadline: **Depends on internship**  
-  - Who: Undergraduate and Graduate students (U.S. + some foreign nationals, DOE restrictions apply)  
-  - Focus: Supercomputing algorithms, ML for HPC, advanced modeling.
+  Each entry provides:  
+  - A **reference code** (e.g., `HIP-25-023`)  
+  - **Title and PDF link** to detailed project descriptions (host lab, goals, required skills)  
+  - Eligibility and logistical details  
 
-- **[LANL CCS Undergraduate Student Internships](https://ccs.lanl.gov/careers/internships.shtml)**  
-  - Rolling applications for Summer 2026  
-  - Who: Undergraduates, U.S. citizens preferred  
-  - Focus: HPC-heavy groups (Applied CS, Computational Physics, Statistical Sciences).
+  NOTE: Applicants may choose up to **5 projects** when applying through Zintellect.
 
 - **[Sandia National Laboratories Internships](https://www.sandia.gov/careers/students/internships/)**  
   - Summer 2026 postings begin **Fall 2025**  
   - Who: Undergraduates/Graduates, U.S. citizens (most roles)  
-  - Focus: HPC systems, scalable software, computer science R&D.
+  - Focus: HPC systems, scalable software, and computer science R&D.
+
 
 ---
 
