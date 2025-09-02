@@ -32,9 +32,9 @@ This README separates programs into **Confirmed (apply now / dates posted)** and
   - Who: U.S. citizens  
   - Focus: HPC projects at NASA centers (Ames NAS, Goddard HECC, etc.).
 
-- **[LANL Graduate Internship — Computational Sciences](https://lanl.jobs/los-alamos-nm/graduate-internship-computational-sciences-summer-2026/)**  
-  - Deadline: **Feb 13, 2026**  
-  - Who: Graduate students (U.S. + some foreign nationals, DOE restrictions apply)  
+- **[LANL Undergraduate/Graduate Internships — Computational Sciences](https://lanl.jobs/creative/students)**  
+  - Deadline: **Depends on internship**  
+  - Who: Undergraduate and Graduate students (U.S. + some foreign nationals, DOE restrictions apply)  
   - Focus: Supercomputing algorithms, ML for HPC, advanced modeling.
 
 - **[LANL CCS Undergraduate Student Internships](https://ccs.lanl.gov/careers/internships.shtml)**  
