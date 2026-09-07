@@ -45,6 +45,10 @@ We refresh the sections below using these sources on a rolling basis — PRs wel
 
 ---
 
+📥 Posted Recently (Sourced from LinkedIn / CareerBuzz)
+
+---
+
 ## ☀️ Summer Internships
 
 Traditional 10–16 week programs running roughly May–August. Where possible these point at the actual open requisition rather than just the department homepage — check the posting for the live status before applying, since individual reqs close on their own schedule.
